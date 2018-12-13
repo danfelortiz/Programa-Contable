@@ -1,0 +1,670 @@
+REG  2018-12-05 17:20   
+                  000001
+UNIDADES          $1,200
+   _T_O_T_A_L           
+            _$_1_,_2_0_0
+   EFECTIVO       $1,200
+OFF  2018-12-05 17:29   
+                  000002
+------------------------
+Data Backup   Normal End
+------------------------
+REG  2018-12-06 07:59   
+                  000003
+UNIDADES          $1,000
+   _T_O_T_A_L           
+            _$_1_,_0_0_0
+   EFECTIVO       $1,000
+REG  2018-12-06 08:00   
+                  000004
+UNIDADES            $200
+   _T_O_T_A_L   _$_2_0_0
+   EFECTIVO         $200
+REG  2018-12-06 08:12   
+                  000005
+PLA 15.5X20       $1,200
+TEN BCOX20        $1,200
+   _T_O_T_A_L           
+            _$_2_,_4_0_0
+   EFECTIVO       $2,400
+REG  2018-12-06 08:16   
+                  000006
+NEG20 50CMAN     $42,000
+   _T_O_T_A_L           
+          _$_4_2_,_0_0_0
+   EFECTIVO      $50,000
+   CAMBIO         $8,000
+REG  2018-12-06 08:16   
+                  000007
+TRANS30CMANT     $23,000
+   _T_O_T_A_L           
+          _$_2_3_,_0_0_0
+   EFECTIVO      $50,000
+   CAMBIO        $27,000
+REG  2018-12-06 08:17   
+                  000008
+   #/A.CAJON   .........
+REG  2018-12-06 08:20   
+                  000009
+PLAT 23OZX20      $2,600
+5 WAU X50         $1,600
+   _T_O_T_A_L           
+            _$_4_,_2_0_0
+   EFECTIVO       $5,000
+   CAMBIO           $800
+REG  2018-12-06 08:23   
+                  000010
+ALUM 40MTS        $8,900
+   _T_O_T_A_L           
+            _$_8_,_9_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $1,100
+REG  2018-12-06 08:28   
+                  000011
+BOLSA 16X24       $7,500
+   _T_O_T_A_L           
+            _$_7_,_5_0_0
+   EFECTIVO      $20,000
+   CAMBIO        $12,500
+REG  2018-12-06 08:31   
+                  000012
+   #/A.CAJON   .........
+REG  2018-12-06 08:31   
+                  000013
+B1 X50            $6,500
+   _T_O_T_A_L           
+            _$_6_,_5_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $3,500
+REG  2018-12-06 08:35   
+                  000014
+TEN PSMX100       $3,500
+CU PSMX100        $3,500
+CU PSMX100        $3,500
+     2X        1  800   
+BOLSA 1/2         $1,600
+   ANULAR      .........
+     2X        1  800   
+BOLSA 1/2         -1,600
+     2X        1  800   
+BOLSA CUB         $1,600
+   _T_O_T_A_L           
+          _$_1_2_,_1_0_0
+   EFECTIVO      $20,000
+   CAMBIO         $7,900
+REG  2018-12-06 08:36   
+                  000015
+     3X     1  2,200    
+9TAMIX25          $6,600
+     2X     1  5,600    
+9 CARTIMPX40     $11,200
+   ANULAR      .........
+     2X     1  5,600    
+9 CARTIMPX40     -11,200
+     2X     1  5,600    
+9 CARTIMPX40     $11,200
+UNIDADES         $11,200
+UNIDADES         $30,000
+UNIDADES          $8,000
+   _T_O_T_A_L           
+          _$_6_7_,_0_0_0
+   EFECTIVO      $67,000
+REG  2018-12-06 08:39   
+                  000016
+UNIDADES          $1,800
+   _T_O_T_A_L           
+            _$_1_,_8_0_0
+   EFECTIVO       $1,800
+REG  2018-12-06 08:40   
+                  000017
+UNIDADES          $1,300
+   _T_O_T_A_L           
+            _$_1_,_3_0_0
+   EFECTIVO       $1,300
+REG  2018-12-06 08:46   
+                  000018
+UNIDADES         $11,000
+   _T_O_T_A_L           
+          _$_1_1_,_0_0_0
+   EFECTIVO      $20,000
+   CAMBIO         $9,000
+REG  2018-12-06 08:53   
+                  000019
+18X40 COLBON      $3,300
+   _T_O_T_A_L           
+            _$_3_,_3_0_0
+   EFECTIVO       $4,000
+   CAMBIO           $700
+REG  2018-12-06 08:55   
+                  000020
+UNIDADES            $300
+   _T_O_T_A_L   _$_3_0_0
+   EFECTIVO       $2,000
+   CAMBIO         $1,700
+REG  2018-12-06 08:58   
+                  000021
+VINIPE100MTS      $5,000
+   _T_O_T_A_L           
+            _$_5_,_0_0_0
+   EFECTIVO       $5,000
+REG  2018-12-06 09:08   
+                  000022
+16 WAU X25        $2,800
+   ANULAR      .........
+16 WAU X25        -2,800
+14 WAU X25        $2,500
+UNIDADES            $100
+   _T_O_T_A_L           
+            _$_2_,_6_0_0
+   EFECTIVO       $5,000
+   CAMBIO         $2,400
+REG  2018-12-06 09:10   
+                  000023
+     2X     1  2,200    
+TIPO CX7          $4,400
+   _T_O_T_A_L           
+            _$_4_,_4_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $5,600
+REG  2018-12-06 09:28   
+                  000024
+TIPO CX7          $2,200
+   _T_O_T_A_L           
+            _$_2_,_2_0_0
+   EFECTIVO       $2,200
+REG  2018-12-06 09:32   
+                  000025
+CON.16OZX20       $6,000
+     3X     1  2,600    
+9 SAMBAX50        $7,800
+UNIDADES            $600
+9 OZX50 AC        $3,000
+4 OZX50 AC        $2,600
+     2X     1  1,200    
+4 SAMBAX25        $2,400
+UNIDADES            $200
+FAVORITA 320      $2,200
+C/ITATAMI100      $1,800
+BOLSA 10KL        $4,500
+BOLSA 2KL         $1,900
+16 WAU X25        $2,800
+UNIDADES            $100
+   _T_O_T_A_L           
+          _$_3_5_,_9_0_0
+   EFECTIVO      $35,900
+REG  2018-12-06 09:36   
+                  000026
+BOLSA 9X14        $3,000
+   _T_O_T_A_L           
+            _$_3_,_0_0_0
+   EFECTIVO       $5,000
+   CAMBIO         $2,000
+REG  2018-12-06 09:36   
+                  000027
+UNIDADES          $1,400
+   _T_O_T_A_L           
+            _$_1_,_4_0_0
+   EFECTIVO       $2,000
+   CAMBIO           $600
+REG  2018-12-06 09:44   
+                  000028
+BOLSA1,5KL        $1,600
+BOLSA 5KL         $3,400
+   _T_O_T_A_L           
+            _$_5_,_0_0_0
+   EFECTIVO       $5,000
+REG  2018-12-06 09:44   
+                  000029
+BOLSA 1/2           $800
+   _T_O_T_A_L   _$_8_0_0
+   EFECTIVO         $800
+REG  2018-12-06 09:50   
+                  000030
+10 LITROS        $11,000
+   _T_O_T_A_L           
+          _$_1_1_,_0_0_0
+   EFECTIVO      $12,000
+   CAMBIO         $1,000
+REG  2018-12-06 09:52   
+                  000031
+BOLSA 3KL         $2,500
+   _T_O_T_A_L           
+            _$_2_,_5_0_0
+   EFECTIVO       $2,500
+REG  2018-12-06 10:01   
+                  000032
+BOLSA 7X12        $1,700
+   _T_O_T_A_L           
+            _$_1_,_7_0_0
+   EFECTIVO       $5,000
+   CAMBIO         $3,300
+REG  2018-12-06 10:12   
+                  000033
+BOLSA 12X16       $4,200
+   _T_O_T_A_L           
+            _$_4_,_2_0_0
+   EFECTIVO      $20,000
+   CAMBIO        $15,800
+REG  2018-12-06 10:14   
+                  000034
+BOLSA1,5KL        $1,600
+   _T_O_T_A_L           
+            _$_1_,_6_0_0
+   EFECTIVO      $20,000
+   CAMBIO        $18,400
+REG  2018-12-06 10:15   
+                  000035
+     2X     1  3,200    
+PLAT 26OZX20      $6,400
+   _T_O_T_A_L           
+            _$_6_,_4_0_0
+   EFECTIVO      $50,000
+   CAMBIO        $43,600
+REG  2018-12-06 10:17   
+                  000036
+5.5 BICX50        $1,600
+UNIDADES            $200
+   _T_O_T_A_L           
+            _$_1_,_8_0_0
+   EFECTIVO       $1,800
+REG  2018-12-06 10:21   
+                  000037
+   #/A.CAJON   .........
+REG  2018-12-06 10:22   
+                  000038
+3CRISTX12         $1,800
+   _T_O_T_A_L           
+            _$_1_,_8_0_0
+   EFECTIVO       $2,000
+   CAMBIO           $200
+REG  2018-12-06 10:34   
+                  000039
+     2X     1  5,000    
+TIPO BX7         $10,000
+TIPO DX7          $1,700
+TIPO A1X7         $3,200
+   _T_O_T_A_L           
+          _$_1_4_,_9_0_0
+   EFECTIVO      $50,000
+   CAMBIO        $35,100
+REG  2018-12-06 10:42   
+                  000040
+GUANTE            $1,000
+   _T_O_T_A_L           
+            _$_1_,_0_0_0
+   EFECTIVO       $5,000
+   CAMBIO         $4,000
+REG  2018-12-06 10:47   
+                  000041
+   #/A.CAJON   .........
+REG  2018-12-06 10:49   
+                  000042
+ALUMN 16MTS       $4,200
+   _T_O_T_A_L           
+            _$_4_,_2_0_0
+   EFECTIVO       $5,000
+   CAMBIO           $800
+REG  2018-12-06 11:00   
+                  000043
+     3X        1  300   
+LASA¥A 6 OZ         $900
+   _T_O_T_A_L   _$_9_0_0
+   EFECTIVO         $900
+REG  2018-12-06 11:14   
+                  000044
+     6X     1  2,400    
+GRANDE 150       $14,400
+UNIDADES         $29,000
+   _T_O_T_A_L           
+          _$_4_3_,_4_0_0
+   EFECTIVO      $50,000
+   CAMBIO         $6,600
+REG  2018-12-06 11:30   
+                  000045
+     2X     1  1,000    
+GUANTE            $2,000
+UNIDADES          $1,400
+   _T_O_T_A_L           
+            _$_3_,_4_0_0
+   EFECTIVO       $3,400
+REG  2018-12-06 11:30   
+                  000046
+GUANTE            $1,000
+   _T_O_T_A_L           
+            _$_1_,_0_0_0
+   EFECTIVO       $1,000
+REG  2018-12-06 11:35   
+                  000047
+12X40 T4319       $2,000
+   _T_O_T_A_L           
+            _$_2_,_0_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $8,000
+REG  2018-12-06 11:35   
+                  000048
+     2X     1  5,000    
+COPA VINX20      $10,000
+     2X     1  1,500    
+7 WAU X50         $3,000
+UNIDADES            $400
+     3X     1  1,800    
+1CRISTX25         $5,400
+   _T_O_T_A_L           
+          _$_1_8_,_8_0_0
+   EFECTIVO      $20,000
+   CAMBIO         $1,200
+REG  2018-12-06 11:36   
+                  000049
+UNIDADES            $200
+   _T_O_T_A_L   _$_2_0_0
+   EFECTIVO         $200
+REG  2018-12-06 11:39   
+                  000050
+7 WAU X50         $1,500
+UNIDADES            $200
+   _T_O_T_A_L           
+            _$_1_,_7_0_0
+   EFECTIVO       $1,700
+REG  2018-12-06 11:47   
+                  000051
+C/ITATAMI100      $1,800
+   _T_O_T_A_L           
+            _$_1_,_8_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $8,200
+REG  2018-12-06 11:56   
+                  000052
+UNIDADES          $3,000
+   _T_O_T_A_L           
+            _$_3_,_0_0_0
+   EFECTIVO       $3,000
+REG  2018-12-06 12:10   
+                  000053
+     2X        1  900   
+MEZCLADOR         $1,800
+KRAFT 1           $1,800
+KRAFT 2           $2,300
+KRAFT 4           $3,500
+   _T_O_T_A_L           
+            _$_9_,_4_0_0
+   EFECTIVO      $10,000
+   CAMBIO           $600
+REG  2018-12-06 12:16   
+                  000054
+UNIDADES          $5,600
+   _T_O_T_A_L           
+            _$_5_,_6_0_0
+   EFECTIVO       $7,000
+   CAMBIO         $1,400
+REG  2018-12-06 12:20   
+                  000055
+R21               $2,700
+   _T_O_T_A_L           
+            _$_2_,_7_0_0
+   EFECTIVO       $2,700
+REG  2018-12-06 12:26   
+                  000056
+   #/A.CAJON   .........
+REG  2018-12-06 12:29   
+                  000057
+FAVORITA 320      $2,200
+9 OZX50 AC        $3,000
+BOLSA1,5KL        $1,600
+   _T_O_T_A_L           
+            _$_6_,_8_0_0
+   EFECTIVO      $20,000
+   CAMBIO        $13,200
+REG  2018-12-06 12:30   
+                  000058
+7 WAU X50         $1,500
+UNIDADES            $200
+   _T_O_T_A_L           
+            _$_1_,_7_0_0
+   EFECTIVO       $2,000
+   CAMBIO           $300
+REG  2018-12-06 12:31   
+                  000059
+UNIDADES          $2,000
+   _T_O_T_A_L           
+            _$_2_,_0_0_0
+   EFECTIVO       $5,000
+   CAMBIO         $3,000
+REG  2018-12-06 12:35   
+                  000060
+7 WAU X50         $1,500
+UNIDADES            $200
+P15.5TAMX20       $1,700
+TENE BCOX100      $4,400
+   ANULAR      .........
+TENE BCOX100      -4,400
+TEN BCOX20        $1,200
+   _T_O_T_A_L           
+            _$_4_,_6_0_0
+   EFECTIVO       $4,600
+REG  2018-12-06 12:36   
+                  000061
+PLAT 12OZX20      $1,500
+   _T_O_T_A_L           
+            _$_1_,_5_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $8,500
+REG  2018-12-06 12:52   
+                  000062
+   #/A.CAJON   .........
+REG  2018-12-06 12:54   
+                  000063
+   #/A.CAJON   .........
+REG  2018-12-06 12:54   
+                  000064
+UNIDADES            $100
+   _T_O_T_A_L   _$_1_0_0
+   EFECTIVO         $100
+REG  2018-12-06 13:00   
+                  000065
+BOLSA 15KL        $5,100
+   _T_O_T_A_L           
+            _$_5_,_1_0_0
+   EFECTIVO       $5,100
+REG  2018-12-06 13:01   
+                  000066
+     3X     1  2,400    
+GRANDE 150        $7,200
+PEQUE¥A 150       $1,300
+   _T_O_T_A_L           
+            _$_8_,_5_0_0
+   EFECTIVO       $8,500
+REG  2018-12-06 13:11   
+                  000067
+12 SAMBAX50       $3,300
+UNIDADES            $100
+PLAT 23OZX20      $2,600
+   ANULAR      .........
+PLAT 23OZX20      -2,600
+PLAT 26OZX20      $3,200
+PIN/ZO25X100      $2,700
+TISSY X100        $1,600
+UNIDADES            $800
+   _T_O_T_A_L           
+          _$_1_1_,_7_0_0
+   EFECTIVO      $50,000
+   CAMBIO        $38,300
+REG  2018-12-06 13:26   
+                  000068
+7 WAU X50         $1,500
+UNIDADES            $200
+   _T_O_T_A_L           
+            _$_1_,_7_0_0
+   EFECTIVO       $1,700
+REG  2018-12-06 13:27   
+                  000069
+BOLSA 3KL         $2,500
+   _T_O_T_A_L           
+            _$_2_,_5_0_0
+   EFECTIVO       $2,500
+REG  2018-12-06 13:45   
+                  000070
+GUANTE            $1,000
+   _T_O_T_A_L           
+            _$_1_,_0_0_0
+   EFECTIVO       $1,000
+REG  2018-12-06 13:46   
+                  000071
+     5X     1  1,600    
+5.5 BICX50        $8,000
+UNIDADES          $1,000
+   _T_O_T_A_L           
+            _$_9_,_0_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $1,000
+REG  2018-12-06 13:59   
+                  000072
+PORTA-J1X20       $3,800
+R19               $2,300
+   ANULAR      .........
+R19               -2,300
+12X24 COLBON      $2,000
+   DEVOL       .........
+12X24 COLBON      -2,000
+   _T_O_T_A_L           
+            _$_3_,_8_0_0
+   EFECTIVO       $3,800
+REG  2018-12-06 14:00   
+                  000073
+R17               $2,000
+   _T_O_T_A_L           
+            _$_2_,_0_0_0
+   EFECTIVO       $2,000
+REG  2018-12-06 14:05   
+                  000074
+BOLSA 20KL        $6,500
+   _T_O_T_A_L           
+            _$_6_,_5_0_0
+   EFECTIVO      $10,000
+   CAMBIO         $3,500
+REG  2018-12-06 14:09   
+                  000075
+   #/A.CAJON   .........
+REG  2018-12-06 14:19   
+                  000076
+TAPABOCAX1          $500
+GORROX1             $500
+   _T_O_T_A_L           
+            _$_1_,_0_0_0
+   EFECTIVO       $1,000
+REG  2018-12-06 14:24   
+                  000077
+   #/A.CAJON   .........
+REG  2018-12-06 14:33   
+                  000078
+     2X        1  800   
+BOLSA 1/2         $1,600
+   _T_O_T_A_L           
+            _$_1_,_6_0_0
+   EFECTIVO      $20,000
+   CAMBIO        $18,400
+REG  2018-12-06 14:53   
+                  000079
+PEQUE¥A 150       $1,300
+   _T_O_T_A_L           
+            _$_1_,_3_0_0
+   EFECTIVO       $1,300
+REG  2018-12-06 14:59   
+                  000080
+BOLSA 1LB         $1,100
+   _T_O_T_A_L           
+            _$_1_,_1_0_0
+   EFECTIVO       $1,100
+REG  2018-12-06 15:08   
+                  000081
+     4.5X   1  2,100    
+1.30 METROS       $9,450
+     2.5X   1  1,900    
+1.20 METROS       $4,750
+     4X     1  2,400    
+GRANDE 150        $9,600
+   _T_O_T_A_L           
+          _$_2_3_,_8_0_0
+   EFECTIVO      $50,000
+   CAMBIO        $26,200
+REG  2018-12-06 15:29   
+                  000082
+UNIDADES          $1,100
+   _T_O_T_A_L           
+            _$_1_,_1_0_0
+   EFECTIVO       $1,100
+REG  2018-12-06 15:47   
+                  000083
+UNIDADES         $19,000
+   _T_O_T_A_L           
+          _$_1_9_,_0_0_0
+   EFECTIVO      $20,000
+   CAMBIO         $1,000
+REG  2018-12-06 16:09   
+                  000084
+CH 5X6            $2,700
+   _T_O_T_A_L           
+            _$_2_,_7_0_0
+   EFECTIVO       $5,000
+   CAMBIO         $2,300
+REG  2018-12-06 16:12   
+                  000085
+KRAFT 2           $2,300
+   _T_O_T_A_L           
+            _$_2_,_3_0_0
+   EFECTIVO       $2,500
+   CAMBIO           $200
+REG  2018-12-06 16:25   
+                  000086
+7 WAU X50         $1,500
+UNIDADES            $200
+     2X     1  1,600    
+3.5 IRISX50       $3,200
+C/ITAPSMX100      $2,300
+BOLSA 3KL         $2,500
+BOLSA 5KL         $3,400
+BOLSA 3KL         $2,500
+BOLSA 5KL         $3,400
+   _T_O_T_A_L           
+          _$_1_9_,_0_0_0
+   EFECTIVO      $20,000
+   CAMBIO         $1,000
+X    2018-12-06 16:31   
+                  000087
+X    PLU                
+                 0000014
+Z    2018-12-06 16:33   
+                  000088
+Z    PLU            0109
+                 0001014
+Z    2018-12-06 16:34   
+                  000089
+Z    INF Z DIARIO       
+Z    DEPTOS         0108
+                 0001015
+Z    TOT. FIJOS     0108
+                 0001011
+PRODUCTOS        174    
+                $540,400
+CLIENTES          76    
+                $540,400
+EFECT CAJA      $540,400
+T DEBITO              $0
+CREDITOS              $0
+T CREDITO             $0
+                      $0
+                      $0
+                      $0
+------------------------
+DEVUELTO           0    
+                      $0
+            CU    76    
+CANCELADO          0    
+                      $0
+------------------------
+BASE DE IVA           $0
+IVA 19%               $0
+BASE IMPOCON          $0
+IMPOCONSU 8%          $0
+        000001--->000089
+Z    FUNC LIBRES    0108
+                 0001012
