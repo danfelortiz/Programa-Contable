@@ -25,7 +25,7 @@ int main()
   }
   
   //Esta función no está terminada.
-  std::vector<std::tuple<std::wstring, std::wstring, std::wstring, std::wstring, std::wstring, int, std::vector<std::tuple<std::wstring, int, int, int> > > > z = z_REG(v);
+  std::vector<std::tuple<std::wstring, std::wstring, int, std::vector<std::tuple<std::wstring, int, int, int> > > > z = z_REG(v);
 
   return 0;
 }
