@@ -24,8 +24,27 @@ int main()
     std::wcout << L'\n';
   }
   
-  //Esta función no está terminada.
-  std::vector<std::tuple<std::wstring, std::wstring, int, std::vector<std::tuple<std::wstring, int, int, int> > > > z = z_REG(v);
+  std::vector<std::tuple<std::wstring, std::wstring, int, std::vector<std::tuple<std::wstring, int, int, int> > > > xz = z_REG(v);
+
+  for(int i=0; i<xz.size(); i++){
+    std::wcout << "Hora: " << std::get<0>(xz[i]) << std::endl; 
+    std::wcout << "Minuto: " << std::get<1>(xz[i]) << std::endl; 
+    std::wcout << L"Número de comprador: " << std::get<2>(xz[i]) << std::endl;
+    std::wcout << std::endl;
+    std::vector<std::tuple<std::wstring, int, int, int> > vect = std::get<3>(xz[i]);
+    for(int j=0; j<vect.size(); j++){
+      /*
+      for(int k=0; k<std::tuple_size<decltype(vect[j])>::value; k++){
+	std::wcout << 't' << std::get<k>(vect[j]);
+      }
+      std::wcout << std::endl;
+      */
+      std::wcout << "\t" << std::get<0>(vect[j]) << "\t" << std::get<1>(vect[j]) << "\t" << std::get<2>(vect[j]) << "\t" << std::get<3>(vect[j]) << std::endl;
+    }
+    std::wcout << std::endl;
+    std::wcout << std::endl;
+    
+  }
 
   return 0;
 }
